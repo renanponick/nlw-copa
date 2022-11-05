@@ -1,3 +1,7 @@
+# nlw-copa
+
+There is some code about NextLevelWeek Copa - Mobile, Web and Backend.
+
 # Commands
 
 Comandos utilizados para inicializar o server:
